@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  margin-top: 150px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+button {
+  background: transparent;
+  padding: 12px 4px;
+  border-radius: 10px;
+  border: 2px solid aqua;
+  cursor: pointer;
+  width: max-content;
+  margin-left: auto;
+  margin-bottom: 10px;
+  transition: background 0.3s;
+}
+button:hover {
+  background-color: rgba(0, 255, 255, 0.466);
+}

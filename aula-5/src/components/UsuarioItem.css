@@ -1,0 +1,13 @@
+.itemAtivo {
+  background-color: aqua;
+}
+p {
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 0;
+  padding: 10px;
+  border-bottom: none;
+}
+p:last-child {
+  border-bottom: 2px solid black;
+}
