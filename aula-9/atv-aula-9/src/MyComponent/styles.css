@@ -1,0 +1,11 @@
+.navbar {
+    margin-bottom: 20px;
+}
+.container-post {
+    max-width: 400px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.container-post a {
+    color: black;
+}
